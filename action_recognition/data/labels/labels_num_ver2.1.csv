@@ -1,0 +1,5 @@
+﻿action_gt_name,action_gt_num
+idle,0
+stand,1
+fall,2
+sitdown,3
